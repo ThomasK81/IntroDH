@@ -1,0 +1,524 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Introduction to Digital Humanities</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Thomas Koentges based on Hakim El Hattab's reveal.js">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/solarized.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			
+			
+			<div class="slides">
+				<section id="start">
+					<section>
+					<h1>Introduction to</h1>
+					<h1>Digital Humanities</h1>
+					<h2>12 October (Class 0)</h2>
+					<p>
+						<small><a href="http://thomask81.github.io/">Dr Thomas Köntges</a> / <a href="http://twitter.com/ThomasKoentges">@ThomasKoentges</a></small>
+					</p>
+					<p>
+						<small><a href="http://www.dh.uni-leipzig.de/wo/">Digital Humanities, University of Leipzig</a></small>
+					</p>
+					<p>
+						<small><a href="https://github.com/ThomasK81/IntroDH">Class Material</a></small>
+					</p>
+				</section>
+				<section id="classformat">
+					<h2>Class Format</h2>
+					<ol>
+						<li class="fragment">Lecture: Introduction to Digital Humanities</li>
+						<li class="fragment">Seminar: Coding for Humanities</li>
+						<li class="fragment">Project Work / Internship</li>
+					</ol>
+					
+				</section>
+				<section id="introduction">
+					<h2>Lecture: Introduction to Digital Humanities</h2>
+					<ol>
+						<li class="fragment">The History of Digital Humanities</li>
+						<li class="fragment">Principles of Digital Humanities</li>
+						<li class="fragment">Applications of Digital Humanities</li>
+						<li class="fragment">Challenges in User Management</li>
+						<li class="fragment">Challenges of Data Curation</li>
+					</ol>
+					
+				</section>
+				<section id="structure">
+					<h2>Seminar: Coding for Humanities</h2>
+					<ol>
+						<li class="fragment">Digital Renaissance – What does this mean?</li>
+						<li class="fragment">Prof Crane and his team</li>
+						<li class="fragment">Perseus Digital Library and OPP</li>
+					</ol>
+					
+				</section>
+				
+				</section>
+
+				<section>
+				<section id="renaissance">
+					<h2 >Renaissance</h2>
+					<ul>
+						<li class="fragment">Carolingian Renaissance</li>
+						<li class="fragment">Italian Renaissance</li>
+						<li class="fragment">Digital Renaissance</li>
+						<p class="fragment">Access to literature, education and reuse of knowledge</p>
+					</ul>
+				</section>
+				<section id="renaissance2">
+					<h2>Digital Renaissance</h2>
+					<ul>
+						<li class="fragment">Increase proficiency in historical languages among as many people as possible</li>
+						<li class="fragment">Involving as many people as possible in the creation and restoration of knowledge
+</li>
+						<li class="fragment">Distribute restored/reconstructed and newly generated knowledge as widely as possible </li>
+					</ul>
+				</section>
+				<section>
+					<h2>Digital Renaissance</h2>
+					<p>J.  McGann (TLS, 20 November 2009):</p>
+					<blockquote cite="http://www.researchgate.net/publication/232852002_The_Future_is_Digital">
+						&ldquo;In the next fifty years the entirety of our inherited archive of cultural works will have to be re-edited within a network of digital storage, access, and dissemination. This system, which is already under development, is transnational and transcultural.&rdquo;
+					</blockquote>
+				</section>
+				<section>
+					<h2>Digital Renaissance</h2>
+					<p>J.  W. Goethe (1826):</p>
+					<blockquote>
+						&ldquo;National-Literatur will jetzt nicht mehr viel sagen, die Epoche der Weltliteratur ist an der Zeit.&rdquo;
+					</blockquote>
+					<blockquote>
+						&ldquo;Es wird sich zeigen, dass Poesie der ganzen Menschheit angehört[...]&rdquo;
+					</blockquote>
+				</section>
+				<section>
+					<h2>Sapere Aude</h2>
+					<img src="DigitalRenaissance2/SapereAude.png" alt="workflow">
+				</section>
+				<section>
+					<h2>Dulce et Decorum est [...]</h2>
+					<img src="DigitalRenaissance2/OttoDix.jpg" alt="workflow">
+				</section>
+				<section>
+					<h2>The global community decides about the reception and (ab)use of Classics</h2>
+				</section>
+				<section>
+					<h2>Embracing all Classical Philology</h2>
+					<p>A. Boekh (1822):</p>
+					<blockquote>
+						&ldquo;Philology is the analysis of the ancient world in its entirety, including everything in the physical and intellectual world through the use of written sources.&rdquo;
+					</blockquote>
+				</section>
+				<section>
+					<h2>Our Duty as Classicists</h2>
+					<ul>
+					<li>Preservation</li>
+					<li>Distribution</li>
+					<li>Improving the Accessibilty</li> 
+					<li>Fostering the Understanding of Ancient Knowledge</li> 
+					</ul>
+				</section>
+			</section>
+				<!-- Crane and Team -->
+				<section>
+					<section data-background-video="DigitalRenaissance2/GRC_AvH.mov" data-background-color="#000000">
+							<h6 class="fragment">Prof Gregory Crane</h6>
+							<ul class="fragment">
+								<font color="white">
+								<li>PhD in Classics (Harvard)</li>
+								<li>Editor-in-Chief Perseus Digital Library (Tufts)</li>
+								<li>Alexander-von-Humboldt Professor (Leipzig)</li>
+								</font>
+							</ul>
+					</section>
+					<section>
+							<h2>His Team</h2>
+							
+						<ul>
+							<li><a href="http://www.dh.uni-leipzig.de/wo/team/" data-preview-link>Leipzig Team</a></li>
+							<li><a href="http://sites.tufts.edu/perseusupdates/" data-preview-link>Perseus Team</a></li>
+						</ul>
+					</section>
+				</section>
+				
+				<!-- Perseus Digital Library and OGL -->
+				<section>
+					<section>
+						<h2>Perseus Digital Library and OPP</h2>
+					</section>
+					<section>
+						<h2><a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0002" data-preview-link>Perseus Digital Library</a></h2>
+					</section>
+					<section>
+						<h2><a href="http://opengreekandlatin.github.io/csel-dev/" data-preview-link>Open Philology Project (OPP)</a></h2>
+					</section>
+				</section>
+					
+				<!-- Tools and methods -->
+				
+				
+					<section>
+						<h2>Some Approaches</h2>
+					</section>
+				
+				<section>	
+					
+					<section>
+						<h2><a href="http://www.digitalepigraphy.org/museum/" data-preview-link>The Museum of World Heritage</a></h2>
+					</section>
+					
+					<section>
+						<h2>3d Scanning Is Easier Than Ever</h2>
+						<img src="DigitalRenaissance2/kinectviewer.jpg" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Virtual Research Spaces</h2>
+						<img src="DigitalRenaissance2/sinaiticus.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Textual Data vs. Its Visualisation</h2>
+					<pre><code data-trim contenteditable>
+<TEI.2>
+<text>
+<body>
+<div1 type="Book" n="1" org="uniform" sample="complete">
+<p>
+<milestone n="1" unit="section"/>
+Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>
+					
+					</code></pre>
+				</section>
+					<section>
+						<h2>Robust Permanent Citations</h2>
+						<pre><code data-trim contenteditable>
+urn:cts:greekLit:tlg0012.tlg001:1.10-1.20@οὐλομένην
+urn:cite:hmt:msB.1r
+urn:cite:hmt:chsimg.VA012RN-0013:0.0513,0.2216,0.12,0.0883
+						</code></pre>
+						<p>Using CTS/CITE URNs and a Catalogue</p>
+								<ul>
+							<li><a href="http://catalog.perseus.org" data-preview-link>Perseus Catalogue</a> </li>
+						</ul>	
+					</section>
+					<section>
+						<h2>Making Texts Openly Accessible</h2>
+								<ul>
+							<li><a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0002" data-preview-link>Perseus Digital Library</a> </li>
+							<li><a href="http://github.com/OpenGreekAndLatin" data-preview-link>OPP Github Repositories</a> </li>
+							<li><a href="http://ryanfb.github.io/ogl-browser/" data-preview-link>Third Party Contributions</a> </li>
+						</ul>
+					</section>
+					
+					<section>
+						<h2>OCR</h2>
+						<img src="DigitalRenaissance2/ocr.png" alt="workflow">
+					</section>
+				</section>
+				
+				<section>	
+					<section>
+						<h2>Citizen Science</h2>
+						<img src="DigitalRenaissance2/citizenscience.png" alt="workflow">
+						<p><a href="http://www.springer.com/earth+sciences+and+geography/geographical+information+systems/book/978-94-007-4586-5">Sui, D.Z., Elwood, S. and M.F. Goodchild (eds.), 2013. Crowdsourcing Geographic Knowledge. Berlin: Springer</a></p>
+					</section>
+					
+					<section data-background="DigitalRenaissance2/latinstudents.png" data-background-size="800px">
+						<h4>Number of Latin Students, E. Franzini, 2014<h4>
+					</section>
+					
+					<section>
+						<h2>ArXe.type Workflow</h2>
+						<img src="DigitalRenaissance2/arxetype.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Involving everybody</h2>
+						<img src="DigitalRenaissance2/everybody.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Key Terms</h2>
+						<li>Aligned Translation</li>
+						<li>Morpho-syntactic Annotation (Treebanking)</li>
+						<li>Manuscript Transcription</li>
+					</section>
+					
+					<section>
+						<h2>Aligned Translation</h2>
+						<img src="DigitalRenaissance2/aligned.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Treebanking</h2>
+						<img src="DigitalRenaissance2/treebank.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Manuscript Transcription</h2>
+						<img src="DigitalRenaissance2/transcription.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data (Prototype)</h2>
+						<img src="DigitalRenaissance2/ancientgeek1.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data</h2>
+						<img src="DigitalRenaissance2/ancientgeek2.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data</h2>
+						<img src="DigitalRenaissance2/lambda.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data</h2>
+						<img  HEIGHT="400" WIDTH="800" src="DigitalRenaissance2/reader.gif" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data</h2>
+						<img src="DigitalRenaissance2/exercise.gif" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data</h2>
+						<img src="DigitalRenaissance2/alignment-editor.gif" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Elearning based on Linked Data</h2>
+						<img src="DigitalRenaissance2/parse-tree-builder.gif" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>User Testing</h2>
+						<img src="DigitalRenaissance2/SetUp.jpg" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Learning Ancient Greek</h2>
+						<img src="DigitalRenaissance2/Explain.jpg" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Engaging</h2>
+						<img src="DigitalRenaissance2/Engage.jpg" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Re-Engaging</h2>
+						<img src="DigitalRenaissance2/Reengage.jpg" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Fostering Discussion</h2>
+						<img src="DigitalRenaissance2/Discuss.jpg" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>International User Testing</h2>
+						<img src="DigitalRenaissance2/usertesting.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Preliminary Results</h2>
+						<h3>User Retention</h3>
+						<img src="DigitalRenaissance2/userretention.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Preliminary Results</h2>
+						<h3>Users' Persistance in the tasks</h3>
+						<img src="DigitalRenaissance2/taskduration.png" alt="workflow">
+					</section>
+					
+					<section>
+						<h2>Collaborative Editing (with Scholars)</h2>
+								<ul>
+							<li><a href="http://perseids.org/sites/berti_demo/berti_demo.html#urn:cite:perseus:lci.2.1" data-preview-link>Fragmentary Texts</a> </li>
+							<li><a href="http://perseids.org/sites/vortex/digitaledition/tlg0012.tlg001.perseus-grc1.de.html" data-preview-link>Thematic Annotations</a> </li>
+							<li><a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=11222" data-preview-link>Treebanks</a> </li>
+							<li>Textual Transmission</li>
+						</ul>
+					</section>
+				</section>
+				<section>	
+					
+					<section>
+						<h2>Researching Textual Transmission</h2>
+						<p>Textual transmission is a mono-directional communication process of text-data, graphics,and meta-data from the past to the present.</p>
+						<img src="DigitalRenaissance2/textualtransmission.png" alt="workflow">
+					</section>
+					<section>
+						<h2>Researching Textual Transmission</h2>
+						<img src="DigitalRenaissance2/textualtransmission2.png" alt="workflow">
+					</section>
+					<section>
+						<h2>Researching Textual Transmission</h2>
+						<img src="DigitalRenaissance2/transmission1.png" alt="workflow">
+					</section>
+					<section>
+						<h2>Researching Textual Transmission</h2>
+						<img src="DigitalRenaissance2/transmission2.png" alt="workflow">
+								<ul>
+							<li><a href="http://139.18.40.155" data-preview-link>OPP Manuscript Catalogue</a> </li>
+						</ul>
+					</section>
+					<section>
+						<h2>Weka</h2>
+						<ul>
+							<li>Weka 3.7.11: Open Source Data Mining Software in Java
+</li>
+							<li>A Collection of machine-learning algorithms for data-mining tasks
+</li>
+							<li>GUI, but also implemented in e.g R, Python</li>
+
+							<li>Although Weka is a powerful tool, classifying the manuscripts will be a challenge</li>
+						</ul>
+						<p><a href="http://www.cs.waikato.ac.nz/ml/weka/">Weka Homepage</a></p>
+					</section>
+					<section>
+						<h2>Weka</h2>
+						<img src="DigitalRenaissance2/weka.png" alt="workflow">
+					</section>
+					<section>
+						<h2>Weka</h2>
+						<img src="DigitalRenaissance2/weka1.png" alt="workflow">
+					</section>
+				<section>
+					<h2>Weka ARFF File</h2>
+					<pre><code data-trim contenteditable>
+@relation PetroniusManuscripts
+
+@attribute ID numeric
+@attribute Variant1 {Cum,Num,om.,Quum}
+@attribute Variant2 {Nec,Non,om.}
+@attribute Variant3 {Essent,om.}
+@attribute Variant4 {ituris,nuris,om.,turis}
+@attribute Variant5 {facent,facerent,om.}
+@attribute Variant6 {rerum,runici,verborum,om.}
+@attribute Variant7 {et,om.}
+@attribute Variant8 {strepita,strepitum,om.}
+@attribute Variant9 {terrarum_orbem,orbem_terrarum,om.}
+@attribute Variant10 {qui,quia,quorum,om.}
+@attribute Variant11 {his,iis}
+@attribute Variant12 {et,om.,sed}
+@attribute Variant13 {et,om.,sed}
+@attribute Variant14 {pestilentia,pestilentiam,om.}
+@attribute Variant15 {omnem,omnium,om.}
+@attribute Variant16 {quidem,om.,solum}
+@attribute Class {L,O}
+
+@data
+
+1,Num,Non,Essent,ituris,facerent,rerum,et,strepitum,orbem_terrarum,quia,his,et,sed,pestilentiam,omnium,quidem,O
+2,Num,Non,Essent,ituris,facerent,rerum,et,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentiam,omnium,quidem,L
+3,Num,Non,Essent,ituris,facerent,rerum,et,strepitum,terrarum_orbem,quia,iis,sed,sed,pestilentiam,omnium,quidem,L
+4,Cum,Nec,Essent,ituris,facerent,rerum,om.,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentia,omnem,quidem,O
+5,Cum,Non,Essent,ituris,facent,rerum,et,strepitum,terrarum_orbem,qui,iis,et,sed,pestilentiam,omnem,quidem,O
+6,Cum,Nec,om.,turis,facerent,runici,om.,strepitum,terrarum_orbem,quia,his,et,et,pestilentia,omnem,quidem,O
+7,Cum,Non,Essent,ituris,facerent,rerum,et,strepitum,orbem_terrarum,quorum,iis,et,sed,pestilentiam,omnem,quidem,O
+8,Cum,Non,Essent,ituris,facerent,rerum,et,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentiam,omnium,quidem,O
+9,Cum,Non,Essent,nuris,facerent,rerum,et,strepita,terrarum_orbem,quia,his,et,sed,pestilentiam,omnium,quidem,O
+10,Cum,Non,Essent,ituris,facerent,rerum,om.,strepitum,terrarum_orbem,quia,iis,sed,sed,pestilentiam,omnium,solum,L
+11,Cum,Non,Essent,ituris,facerent,rerum,om.,strepitum,terrarum_orbem,quia,iis,sed,sed,pestilentiam,omnium,solum,O
+12,Cum,Non,Essent,ituris,facerent,rerum,et,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentiam,omnium,quidem,L
+13,Quum,Non,Essent,ituris,facerent,rerum,et,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentiam,omnem,quidem,O
+14,Num,Non,Essent,ituris,facerent,verborum,et,strepitum,terrarum_orbem,quia,iis,sed,sed,pestilentiam,omnium,quidem,L
+15,Cum,Non,Essent,ituris,facerent,verborum,et,strepitum,orbem_terrarum,quia,iis,et,sed,pestilentiam,omnem,quidem,O
+16,Cum,Non,Essent,ituris,facerent,verborum,et,strepitum,orbem_terrarum,quia,iis,et,sed,pestilentiam,omnium,quidem,L
+17,Cum,Non,Essent,ituris,facerent,verborum,et,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentiam,omnium,solum,L
+18,Cum,Non,Essent,ituris,facerent,verborum,et,strepitum,terrarum_orbem,quia,iis,et,sed,pestilentiam,omnium,quidem,L
+
+					</code></pre>
+					<p>Structure of the ARFF Data file</p>
+				</section>
+			</section>
+			
+		
+				</section>
+				
+				<!-- Questions -->
+				
+				<section>
+					<h2>Questions?</h2>
+					<img src="DigitalRenaissance2/questions.gif" alt="questions">
+				</section>
+</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+				
