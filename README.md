@@ -1,4 +1,4 @@
-#### Important: https://github.com/ThomasK81/IntroDH/wiki/To-my-class:-Fork-before-pull-request!
+#### Important: https://github.com/ThomasK81/IntroDH/wiki/Comments-to-Class-1:-To-my-class:-Fork-before-pull-request!
 
 # Introduction to Digital Humanities
 
