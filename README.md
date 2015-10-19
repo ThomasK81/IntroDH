@@ -1,4 +1,5 @@
 #### Important: [Check-out the Wiki!] (https://github.com/ThomasK81/IntroDH/wiki/Comments-to-Class-1:-To-my-class:-Fork-before-pull-request!)
+### Additional help for Windows Users: [Here] (https://github.com/msysgit/msysgit/wiki/Git-cannot-create-a-file-or-directory-with-a-long-path)
 
 # Introduction to Digital Humanities
 
