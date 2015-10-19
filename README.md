@@ -1,3 +1,5 @@
+#### Important: https://github.com/ThomasK81/IntroDH/wiki/To-my-class:-Fork-before-pull-request!
+
 # Introduction to Digital Humanities
 
 ## Teaching Format
