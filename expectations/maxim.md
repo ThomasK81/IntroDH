@@ -1,4 +1,4 @@
-# Maxim's expectations
+# Maxim’s expectations
 
 ## Professor
 - give an overview of DH
