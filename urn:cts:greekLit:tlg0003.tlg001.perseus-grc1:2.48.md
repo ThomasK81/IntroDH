@@ -8,14 +8,12 @@
 - urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:1.61.2,
 
 **οἳ** **ἀφικόμενοι** **ἐς** [Μακεδονίαν](http://www.perseus.tufts.edu/hopper/morph?l=Μακεδονίαν&la=greek#lexicon) **πρῶτον** [καταλαμβάνουσι](http://www.perseus.tufts.edu/hopper/morph?l=καταλαμβάνουσι&la=greek#lexicon) **τοὺς** **προτέρους** [χιλίους](http://www.perseus.tufts.edu/hopper/morph?l=χιλίους&la=greek#lexicon) [Θέρμην](http://www.perseus.tufts.edu/hopper/morph?l=Θέρμην&la=greek#lexicon) [ἄρτι](http://www.perseus.tufts.edu/hopper/morph?l=ἄρτι&la=greek#lexicon) [ᾑρηκότας](http://www.perseus.tufts.edu/hopper/morph?l=ᾑρηκότας&la=greek#lexicon) **καὶ** [Πύδναν](http://www.perseus.tufts.edu/hopper/morph?l=Πύδναν&la=greek#lexicon) [πολιορκοῦντας.](http://www.perseus.tufts.edu/hopper/morph?l=πολιορκοῦντας.&la=greek#lexicon)
-
 Percent known: 46.6666666666667
 
 
 - urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:1.104.1,
 
 [Ἰνάρως](http://www.perseus.tufts.edu/hopper/morph?l=Ἰνάρως&la=greek#lexicon) **δὲ** **ὁ** [Ψαμμητίχου,](http://www.perseus.tufts.edu/hopper/morph?l=Ψαμμητίχου,&la=greek#lexicon) [Λίβυς,](http://www.perseus.tufts.edu/hopper/morph?l=Λίβυς,&la=greek#lexicon) **βασιλεὺς** [Λιβύων](http://www.perseus.tufts.edu/hopper/morph?l=Λιβύων&la=greek#lexicon) **τῶν** **πρὸς** [Αἰγύπτῳ,](http://www.perseus.tufts.edu/hopper/morph?l=Αἰγύπτῳ,&la=greek#lexicon) [ὁρμώμενος](http://www.perseus.tufts.edu/hopper/morph?l=ὁρμώμενος&la=greek#lexicon) **ἐκ** [Μαρείας](http://www.perseus.tufts.edu/hopper/morph?l=Μαρείας&la=greek#lexicon) **τῆς** **ὑπὲρ** [Φάρου](http://www.perseus.tufts.edu/hopper/morph?l=Φάρου&la=greek#lexicon) **πόλεως** [ἀπέστησεν](http://www.perseus.tufts.edu/hopper/morph?l=ἀπέστησεν&la=greek#lexicon) **Αἰγύπτου** **τὰ** **πλείω** **ἀπὸ** **βασιλέως** [Ἀρταξέρξου,](http://www.perseus.tufts.edu/hopper/morph?l=Ἀρταξέρξου,&la=greek#lexicon) **καὶ** **αὐτὸς** **ἄρχων** **γενόμενος** **Ἀθηναίους** [ἐπηγάγετο.](http://www.perseus.tufts.edu/hopper/morph?l=ἐπηγάγετο.&la=greek#lexicon)	
-
 Percent known: 63.3333333333333
 
 
@@ -44,14 +42,12 @@ Percent known: 56.25
 - urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2.11.3,
 
 [οὔκουν](http://www.perseus.tufts.edu/hopper/morph?l=οὔκουν&la=greek#lexicon) [χρή,](http://www.perseus.tufts.edu/hopper/morph?l=χρή,&la=greek#lexicon) **εἴ** **τῳ** **καὶ** **δοκοῦμεν** **πλήθει** **ἐπιέναι** **καὶ** [ἀσφάλεια](http://www.perseus.tufts.edu/hopper/morph?l=ἀσφάλεια&la=greek#lexicon) **πολλὴ** **εἶναι** **μὴ** **ἂν** [ἐλθεῖν](http://www.perseus.tufts.edu/hopper/morph?l=ἐλθεῖν&la=greek#lexicon) **τοὺς** [ἐναντίους](http://www.perseus.tufts.edu/hopper/morph?l=ἐναντίους&la=greek#lexicon) **ἡμῖν** **διὰ** [μάχης,](http://www.perseus.tufts.edu/hopper/morph?l=μάχης,&la=greek#lexicon) **τούτων** [ἕνεκα](http://www.perseus.tufts.edu/hopper/morph?l=ἕνεκα&la=greek#lexicon) [ἀμελέστερόν](http://www.perseus.tufts.edu/hopper/morph?l=ἀμελέστερόν&la=greek#lexicon) **τι** **παρεσκευασμένους** [χωρεῖν,](http://www.perseus.tufts.edu/hopper/morph?l=χωρεῖν,&la=greek#lexicon) **ἀλλὰ** **καὶ** **πόλεως** **ἑκάστης** [ἡγεμόνα](http://www.perseus.tufts.edu/hopper/morph?l=ἡγεμόνα&la=greek#lexicon) **καὶ** [στρατιώτην](http://www.perseus.tufts.edu/hopper/morph?l=στρατιώτην&la=greek#lexicon) **τὸ** **καθ᾽** **αὑτὸν** **αἰεὶ** [προσδέχεσθαι](http://www.perseus.tufts.edu/hopper/morph?l=προσδέχεσθαι&la=greek#lexicon) **ἐς** [κίνδυνόν](http://www.perseus.tufts.edu/hopper/morph?l=κίνδυνόν&la=greek#lexicon) **τινα** [ἥξειν.](http://www.perseus.tufts.edu/hopper/morph?l=ἥξειν.&la=greek#lexicon)
-
 Percent known: 66.6666666666667
 
 
 - urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2.13.2,
 
 [παρῄνει](http://www.perseus.tufts.edu/hopper/morph?l=παρῄνει&la=greek#lexicon) **δὲ** **καὶ** **περὶ** **τῶν** **παρόντων** **ἅπερ** **καὶ** **πρότερον,** **παρασκευάζεσθαί** **τε** **ἐς** **τὸν** **πόλεμον** **καὶ** **τὰ** **ἐκ** **τῶν** [ἀγρῶν](http://www.perseus.tufts.edu/hopper/morph?l=ἀγρῶν&la=greek#lexicon) [ἐσκομίζεσθαι,](http://www.perseus.tufts.edu/hopper/morph?l=ἐσκομίζεσθαι,&la=greek#lexicon) **ἔς** **τε** [μάχην](http://www.perseus.tufts.edu/hopper/morph?l=μάχην&la=greek#lexicon) **μὴ** [ἐπεξιέναι,](http://www.perseus.tufts.edu/hopper/morph?l=ἐπεξιέναι,&la=greek#lexicon) **ἀλλὰ** **τὴν** **πόλιν** [ἐσελθόντας](http://www.perseus.tufts.edu/hopper/morph?l=ἐσελθόντας&la=greek#lexicon) [φυλάσσειν,](http://www.perseus.tufts.edu/hopper/morph?l=φυλάσσειν,&la=greek#lexicon) **καὶ** **τὸ** [ναυτικόν,](http://www.perseus.tufts.edu/hopper/morph?l=ναυτικόν,&la=greek#lexicon) [ᾗπερ](http://www.perseus.tufts.edu/hopper/morph?l=ᾗπερ&la=greek#lexicon) **ἰσχύουσιν,** [ἐξαρτύεσθαι,](http://www.perseus.tufts.edu/hopper/morph?l=ἐξαρτύεσθαι,&la=greek#lexicon) **τά** **τε** **τῶν** [ξυμμάχων](http://www.perseus.tufts.edu/hopper/morph?l=ξυμμάχων&la=greek#lexicon) **διὰ** **χειρὸς** **ἔχειν,** **λέγων** **τὴν** [ἰσχὺν](http://www.perseus.tufts.edu/hopper/morph?l=ἰσχὺν&la=greek#lexicon) **αὐτοῖς** **ἀπὸ** **τούτων** **εἶναι** **τῶν** **χρημάτων** **τῆς** [προσόδου,](http://www.perseus.tufts.edu/hopper/morph?l=προσόδου,&la=greek#lexicon) **τὰ** **δὲ** **πολλὰ** **τοῦ** **πολέμου** **γνώμῃ** **καὶ** **χρημάτων** **περιουσίᾳ** [κρατεῖσθαι.](http://www.perseus.tufts.edu/hopper/morph?l=κρατεῖσθαι.&la=greek#lexicon)	
-
 Percent known: 78.125
 
 
