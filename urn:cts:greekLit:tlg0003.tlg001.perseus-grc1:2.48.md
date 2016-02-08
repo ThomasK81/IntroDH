@@ -1,4 +1,4 @@
-# Overview similar sentences and known vocabulary (including 2.29) Thucydides 2.48 #
+# Overview about similar sentences and known vocabulary (including 2.49) Thucydides 2.48 #
 
 ##urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:2.48.1##
 
